@@ -19,8 +19,7 @@
   .places {
     max-width: 720px;
     row-gap: 70px;
-    margin-left: 24px;
-    margin-right: 24px;
+    margin: 84px 24px 90px;
   }
 }
 
@@ -28,6 +27,6 @@
   .places {
     max-width: 320px;
     row-gap: 50px;
-    margin: 64px 0 0;
+    margin: 64px 0 66px;
   }
 }
