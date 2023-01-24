@@ -1,0 +1,9 @@
+.place__paragraph_break {
+  margin: 0;
+}
+
+@media screen and (max-width: 320px) {
+  .place__paragraph_break {
+    display: block;
+  }
+}
