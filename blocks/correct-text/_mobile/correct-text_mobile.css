@@ -1,9 +1,10 @@
-.place__paragraph_break {
+.correct-text_mobile {
+  color: inherit;
   margin: 0;
 }
 
 @media screen and (max-width: 320px) {
-  .place__paragraph_break {
+  .correct-text_mobile {
     display: block;
   }
 }

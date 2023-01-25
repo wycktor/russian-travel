@@ -1,7 +1,6 @@
 .lead__subtitle {
   max-width: 640px;
   width: calc(100% - 2 * 175px);
-  font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
