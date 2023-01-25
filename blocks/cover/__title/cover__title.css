@@ -10,6 +10,20 @@
 
 @media screen and (max-width: 520px) {
   .cover__title {
+    font-size: 60px;
+    line-height: 63px;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .cover__title {
+    font-size: 45px;
+    line-height: 48px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__title {
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
