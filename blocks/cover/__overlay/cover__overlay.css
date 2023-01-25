@@ -10,7 +10,7 @@
   z-index: 1;
 }
 
-.cover__overlay::before {
+.cover__overlay::after {
   width: 100%;
   height: 100%;
   content: '';
@@ -22,8 +22,7 @@
   z-index: -1;
 }
 
-.cover__overlay:hover::before {
-  content: '';
+.cover__overlay:hover::after {
   opacity: 0.8;
 }
 
