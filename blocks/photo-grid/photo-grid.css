@@ -1,24 +1,25 @@
 .photo-grid {
   max-width: 1184px;
-  margin: 0 48px;
+  margin: 0 3.8% 48px;
 }
 
 @media screen and (max-width: 1024px) {
   .photo-grid {
     max-width: 928px;
+    margin: 0 3.8% 48px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .photo-grid {
     max-width: 720px;
-    margin: 0 24px;
+    margin: 0 3.2% 24px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 340px) {
   .photo-grid {
     max-width: 288px;
-    margin: 0 16px;
+    margin: 0 5% 16px;
   }
 }

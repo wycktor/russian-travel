@@ -10,14 +10,14 @@
   margin: 0 auto 64px;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .lead__subtitle {
     width: calc(100% - 2 * 118px);
     margin: 0 auto 56px;
   }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
   .lead__subtitle {
     width: calc(100% - 2 * 90px);
     margin: 0 auto 56px;
@@ -35,8 +35,8 @@
 @media screen and (max-width: 460px) {
   .lead__subtitle {
     width: calc(100% - 30px);
-    font-size: 20px;
-    line-height: 24px;
+    font-size: 18px;
+    line-height: 22px;
   }
 }
 
