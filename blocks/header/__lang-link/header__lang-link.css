@@ -1,4 +1,11 @@
 .header__lang-link {
+  /* Для ссылок эффект наведения с изменением прозрачности добавлено миксином link
+  в файле index.html:
+  <a class="header__lang-link header__lang-link_active link" href="#">Ru</a>
+  ...
+  <a class="header__lang-link link" href="#">En</a>
+  Добавлено 27.01.2023
+  */
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
